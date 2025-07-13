@@ -1,0 +1,101 @@
+No,Judul Tugas,Topik,Deskripsi Tugas,Dosen Pengampu,Status,Tanggal Pengumpulan
+1,Sistem Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT,Pembangunan sistem monitoring untuk pengendalian suhu dan kelembaban menggunakan sensor IoT.,Prof. Michael Brown,Dalam Proses,2025-06-01
+2,Smart Farming untuk Tanaman Sayur Menggunakan IoT (Tahun 2025),IoT,Membangun sistem pemantauan dan pengawasan jarak jauh untuk peternakan dengan IoT.,Prof. Jane Smith,Dalam Proses,2025-07-20
+3,Pendeteksian Penyakit dengan Machine Learning (Studi Kasus Bandung),Machine Learning,Membangun sistem rekomendasi film menggunakan algoritma KNN.,Dr. Sarah Lee,Selesai,2025-06-30
+4,Pendeteksi Kelembaban Tanah Berbasis IoT (Studi Kasus Bandung),IoT,Perancangan sistem keamanan rumah berbasis IoT dengan kamera pengawas.,Dr. John Doe,Tunggu Evaluasi,2025-06-30
+5,Aplikasi Pengolahan Citra Menggunakan Deep Learning (PT XYZ),AI,Penerapan deep learning untuk pengolahan citra dalam bidang medis.,Dr. Emily Johnson,Tunggu Evaluasi,2025-07-20
+6,Sistem Penjadwalan Dosen Berbasis Web (Studi Kasus Bandung),Web,Merancang sistem penjadwalan dosen berbasis web untuk universitas.,Dr. Sarah Lee,Belum Dikerjakan,2025-06-15
+7,Sistem Penjadwalan Dosen Berbasis Web (Tahun 2025),Web,Pengembangan portal informasi kampus berbasis web dengan React.,Prof. Jane Smith,Tunggu Evaluasi,2025-06-30
+8,Pengenalan Wajah Menggunakan Algoritma AI dan CNN (Studi Kasus Bandung),AI,Penerapan deep learning untuk pengolahan citra dalam bidang medis.,Dr. Emily Johnson,Tunggu Evaluasi,2025-07-20
+9,Aplikasi Pendaftaran Online Menggunakan Laravel (Tahun 2025),Web,Membangun aplikasi pendaftaran mahasiswa baru berbasis Laravel.,Prof. Michael Brown,Dalam Proses,2025-06-15
+10,Kendali Otomatis Lampu Rumah dengan NodeMCU (PT XYZ),IoT,Mengukur kelembaban tanah untuk pertanian menggunakan sensor berbasis IoT.,Prof. Jane Smith,Belum Dikerjakan,2025-06-15
+11,Studi Kelayakan Implementasi Jaringan Fiber Optik (Studi Kasus Bandung),Jaringan,Melakukan analisis kinerja jaringan menggunakan Wireshark untuk mendeteksi masalah.,Dr. John Doe,Belum Dikerjakan,2025-07-05
+12,Implementasi VPN untuk Keamanan Jaringan (Studi Kasus Bandung),Jaringan,Penerapan VPN untuk meningkatkan keamanan jaringan kampus.,Dr. Sarah Lee,Tunggu Evaluasi,2025-07-20
+13,Sistem Informasi Manajemen Tugas Berbasis Mobile (PT XYZ),Mobile Apps,Sistem informasi manajemen tugas berbasis aplikasi mobile.,Prof. Michael Brown,Dalam Proses,2025-06-15
+14,Chatbot Pelayanan Mahasiswa Menggunakan AI (Studi Kasus Bandung),AI,Membangun sistem rekomendasi film berbasis AI untuk platform streaming.,Dr. John Doe,Selesai,2025-06-01
+15,Catatan Keuangan Harian Mobile (Studi Kasus Bandung),Mobile Apps,Membangun aplikasi catatan keuangan harian untuk manajemen pengeluaran pribadi.,Prof. Michael Brown,Dalam Proses,2025-06-15
+16,Implementasi VPN untuk Keamanan Jaringan (PT XYZ),Jaringan,Konfigurasi jaringan dengan Mikrotik untuk meningkatkan bandwidth di kampus.,Prof. Michael Brown,Dalam Proses,2025-07-05
+17,Prediksi Harga Saham Menggunakan RNN (Tahun 2025),Machine Learning,Penerapan CNN untuk klasifikasi citra dalam proyek pengenalan objek.,Prof. Michael Brown,Selesai,2025-07-05
+18,Analisis Sentimen Twitter Menggunakan Naive Bayes (PT XYZ),Data Mining,Menggunakan Naive Bayes untuk mengklasifikasikan sentimen data Twitter.,Dr. Emily Johnson,Belum Dikerjakan,2025-07-05
+19,Analisis Sentimen Twitter Menggunakan Naive Bayes (Studi Kasus Bandung),Data Mining,Melakukan klasifikasi data penjualan menggunakan algoritma C4.5.,Prof. Jane Smith,Selesai,2025-06-30
+20,Sistem Penjadwalan Dosen Berbasis Web (PT XYZ),Web,Menerapkan sistem manajemen data siswa menggunakan PHP dan MySQL.,Dr. John Doe,Tunggu Evaluasi,2025-07-20
+21,Aplikasi Kesehatan Mental Berbasis Android (Tahun 2025),Mobile Apps,Pengembangan platform pembelajaran bahasa asing berbasis aplikasi mobile.,Dr. John Doe,Belum Dikerjakan,2025-06-30
+22,Pendeteksi Kelembaban Tanah Berbasis IoT (PT XYZ),IoT,Perancangan sistem keamanan rumah berbasis IoT dengan kamera pengawas.,Dr. John Doe,Belum Dikerjakan,2025-07-20
+23,Aplikasi Pengolahan Citra Menggunakan Deep Learning (PT XYZ),AI,Penerapan deep learning untuk pengolahan citra dalam bidang medis.,Dr. Sarah Lee,Tunggu Evaluasi,2025-06-30
+24,Sistem Pemantauan Kesehatan dengan Sensor Biometrik (Studi Kasus Bandung),Kesehatan,Penerapan machine learning untuk mendeteksi risiko diabetes berdasarkan data medis.,Prof. Jane Smith,Selesai,2025-07-05
+25,Klasifikasi Data Penjualan dengan Algoritma C4.5 (Studi Kasus Bandung),Data Mining,Penerapan algoritma K-Means untuk segmentasi kelompok mahasiswa berdasarkan data demografis.,Dr. Sarah Lee,Selesai,2025-07-20
+26,Platform Pembelajaran Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps,Membangun aplikasi catatan keuangan harian untuk manajemen pengeluaran pribadi.,Dr. Sarah Lee,Selesai,2025-07-20
+27,Monitoring Gizi Balita Berbasis Android (Studi Kasus Bandung),Kesehatan,Membangun sistem pemantauan kesehatan menggunakan sensor biometrik.,Dr. Emily Johnson,Tunggu Evaluasi,2025-06-01
+28,Sistem Pakar Diagnosa Penyakit Tanaman (PT XYZ),AI,Penerapan deep learning untuk pengolahan citra dalam bidang medis.,Prof. Michael Brown,Selesai,2025-06-01
+29,Analisis Teks Emosi Menggunakan NLP dan AI (PT XYZ),AI,Pengembangan chatbot berbasis AI untuk pelayanan mahasiswa.,Prof. Jane Smith,Dalam Proses,2025-06-01
+30,Pengenalan Wajah Menggunakan Algoritma AI dan CNN (PT XYZ),AI,Pengenalan wajah menggunakan algoritma CNN dan AI.,Prof. Jane Smith,Selesai,2025-06-15
+31,Klasifikasi Citra Menggunakan CNN (Tahun 2025),Machine Learning,Prediksi cuaca menggunakan model decision tree pada data historis.,Dr. Emily Johnson,Selesai,2025-06-01
+32,Prediksi Cuaca Menggunakan Algoritma Decision Tree (Studi Kasus Bandung),Machine Learning,Prediksi cuaca menggunakan model decision tree pada data historis.,Dr. John Doe,Tunggu Evaluasi,2025-07-05
+33,Pemantauan Jarak Jauh untuk Peternakan Menggunakan IoT (PT XYZ),IoT,Membangun sistem pemantauan dan pengawasan jarak jauh untuk peternakan dengan IoT.,Dr. Emily Johnson,Selesai,2025-06-15
+34,Sistem Rekomendasi Film dengan KNN (Tahun 2025),Machine Learning,Penerapan CNN untuk klasifikasi citra dalam proyek pengenalan objek.,Dr. Sarah Lee,Selesai,2025-06-15
+35,Sistem Pemantauan Kesehatan dengan Sensor Biometrik (Tahun 2025),Kesehatan,Menerapkan manajemen poliklinik berbasis aplikasi mobile.,Dr. John Doe,Tunggu Evaluasi,2025-06-01
+36,Pengenalan Wajah Menggunakan Algoritma AI dan CNN (Tahun 2025),AI,Menganalisis teks emosi menggunakan AI dan NLP untuk customer service.,Prof. Jane Smith,Tunggu Evaluasi,2025-06-15
+37,Implementasi VPN untuk Keamanan Jaringan (Studi Kasus Bandung),Jaringan,Konfigurasi jaringan dengan Mikrotik untuk meningkatkan bandwidth di kampus.,Dr. Emily Johnson,Dalam Proses,2025-06-15
+38,Prediksi Peluang Pemasaran Menggunakan Random Forest (Studi Kasus Bandung),Data Mining,Menggunakan Naive Bayes untuk mengklasifikasikan sentimen data Twitter.,Prof. Michael Brown,Belum Dikerjakan,2025-07-05
+39,Sistem Informasi Manajemen Tugas Berbasis Mobile (PT XYZ),Mobile Apps,Menerapkan aplikasi transportasi berbasis mobile dengan fitur pemesanan.,Dr. John Doe,Belum Dikerjakan,2025-06-30
+40,Prediksi Cuaca Menggunakan Algoritma Decision Tree (Studi Kasus Bandung),Machine Learning,Membangun sistem rekomendasi film menggunakan algoritma KNN.,Dr. Sarah Lee,Dalam Proses,2025-07-05
+41,Penerapan K-Means untuk Segmentasi Mahasiswa (Tahun 2025),Data Mining,Menggunakan Naive Bayes untuk mengklasifikasikan sentimen data Twitter.,Prof. Michael Brown,Selesai,2025-06-01
+42,Klasifikasi Citra Menggunakan CNN (PT XYZ),Machine Learning,Mendeteksi penyakit menggunakan machine learning pada dataset medis.,Dr. Emily Johnson,Belum Dikerjakan,2025-06-30
+43,Pendeteksian Penyakit dengan Machine Learning (PT XYZ),Machine Learning,Klasifikasi teks menggunakan Support Vector Machine (SVM).,Prof. Michael Brown,Selesai,2025-06-01
+44,Sistem Keamanan Rumah Cerdas Menggunakan IoT dan Kamera (Studi Kasus Bandung),IoT,Perancangan sistem keamanan rumah berbasis IoT dengan kamera pengawas.,Dr. John Doe,Selesai,2025-06-01
+45,Konfigurasi Jaringan di Kampus Menggunakan Mikrotik (Studi Kasus Bandung),Jaringan,Desain topologi jaringan untuk kampus dan pengelolaan koneksi internet.,Dr. Emily Johnson,Selesai,2025-06-01
+46,Deteksi Risiko Diabetes Menggunakan Data Medis (Tahun 2025),Kesehatan,Membangun aplikasi reminder obat berbasis Android untuk lansia.,Prof. Jane Smith,Selesai,2025-07-20
+47,Pendeteksian Penyakit dengan Machine Learning (Tahun 2025),Machine Learning,Klasifikasi teks menggunakan Support Vector Machine (SVM).,Dr. John Doe,Tunggu Evaluasi,2025-07-20
+48,Manajemen Data Siswa Berbasis PHP dan MySQL (PT XYZ),Web,Mengembangkan sistem informasi akademik berbasis web untuk pengelolaan data mahasiswa.,Dr. John Doe,Selesai,2025-06-15
+49,Sistem Informasi Manajemen Tugas Berbasis Mobile (PT XYZ),Mobile Apps,Menerapkan aplikasi transportasi berbasis mobile dengan fitur pemesanan.,Dr. John Doe,Selesai,2025-06-01
+50,Manajemen Data Siswa Berbasis PHP dan MySQL (Studi Kasus Bandung),Web,Menerapkan sistem manajemen data siswa menggunakan PHP dan MySQL.,Dr. John Doe,Tunggu Evaluasi,2025-06-30
+51,Aplikasi Kesehatan Mental Berbasis Android (Studi Kasus Bandung),Mobile Apps,Menerapkan aplikasi transportasi berbasis mobile dengan fitur pemesanan.,Dr. Sarah Lee,Selesai,2025-06-15
+52,Aplikasi Kesehatan Mental Berbasis Android (PT XYZ),Mobile Apps,Membuat aplikasi untuk monitoring kesehatan mental berbasis Android.,Dr. Sarah Lee,Selesai,2025-06-15
+53,Analisis Teks Emosi Menggunakan NLP dan AI (Studi Kasus Bandung),AI,Pengenalan wajah menggunakan algoritma CNN dan AI.,Dr. John Doe,Tunggu Evaluasi,2025-07-05
+54,Pembuatan Aplikasi Kesehatan untuk Penderita Hipertensi (PT XYZ),Kesehatan,Membangun aplikasi reminder obat berbasis Android untuk lansia.,Dr. John Doe,Selesai,2025-06-30
+55,Klasifikasi Teks dengan Support Vector Machine (Tahun 2025),Machine Learning,Penerapan CNN untuk klasifikasi citra dalam proyek pengenalan objek.,Dr. Emily Johnson,Tunggu Evaluasi,2025-07-20
+56,Aplikasi Manajemen Poliklinik untuk Rumah Sakit (Studi Kasus Bandung),Kesehatan,Membangun sistem pemantauan kesehatan menggunakan sensor biometrik.,Dr. Emily Johnson,Tunggu Evaluasi,2025-07-20
+57,Sistem Informasi Manajemen Tugas Berbasis Mobile (Tahun 2025),Mobile Apps,Menerapkan aplikasi transportasi berbasis mobile dengan fitur pemesanan.,Prof. Michael Brown,Selesai,2025-07-05
+58,Sistem Keamanan Rumah Cerdas Menggunakan IoT dan Kamera (Studi Kasus Bandung),IoT,Mengukur kelembaban tanah untuk pertanian menggunakan sensor berbasis IoT.,Prof. Jane Smith,Selesai,2025-07-20
+59,Aplikasi Manajemen Poliklinik untuk Rumah Sakit (PT XYZ),Kesehatan,Membangun sistem pemantauan kesehatan menggunakan sensor biometrik.,Dr. John Doe,Selesai,2025-06-15
+60,Studi Kelayakan Implementasi Jaringan Fiber Optik (Studi Kasus Bandung),Jaringan,Melakukan analisis kinerja jaringan menggunakan Wireshark untuk mendeteksi masalah.,Prof. Michael Brown,Selesai,2025-06-01
+61,Studi Kelayakan Implementasi Jaringan Fiber Optik (Studi Kasus Bandung),Jaringan,Melakukan analisis kinerja jaringan menggunakan Wireshark untuk mendeteksi masalah.,Dr. Emily Johnson,Belum Dikerjakan,2025-07-05
+62,Aplikasi Layanan Transportasi Berbasis Mobile (Studi Kasus Bandung),Mobile Apps,Menerapkan aplikasi transportasi berbasis mobile dengan fitur pemesanan.,Dr. Emily Johnson,Selesai,2025-06-01
+63,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI,Penerapan deep learning untuk pengolahan citra dalam bidang medis.,Dr. Sarah Lee,Tunggu Evaluasi,2025-07-05
+64,Aplikasi Pendaftaran Online Menggunakan Laravel (PT XYZ),Web,Merancang sistem penjadwalan dosen berbasis web untuk universitas.,Dr. Emily Johnson,Tunggu Evaluasi,2025-06-30
+65,Portal Informasi Kampus Berbasis Web dengan React (PT XYZ),Web,Merancang sistem penjadwalan dosen berbasis web untuk universitas.,Dr. John Doe,Tunggu Evaluasi,2025-06-15
+66,Chatbot Pelayanan Mahasiswa Menggunakan AI (PT XYZ),AI,Pengembangan chatbot berbasis AI untuk pelayanan mahasiswa.,Dr. Emily Johnson,Tunggu Evaluasi,2025-07-20
+67,Aplikasi Pendaftaran Online Menggunakan Laravel (PT XYZ),Web,Mengembangkan sistem informasi akademik berbasis web untuk pengelolaan data mahasiswa.,Prof. Michael Brown,Selesai,2025-06-15
+68,Pemantauan Jarak Jauh untuk Peternakan Menggunakan IoT (Studi Kasus Bandung),IoT,Mengukur kelembaban tanah untuk pertanian menggunakan sensor berbasis IoT.,Prof. Michael Brown,Tunggu Evaluasi,2025-07-05
+69,Aplikasi Layanan Transportasi Berbasis Mobile (Studi Kasus Bandung),Mobile Apps,Sistem informasi manajemen tugas berbasis aplikasi mobile.,Prof. Michael Brown,Tunggu Evaluasi,2025-07-20
+70,Sistem Pemantauan Kesehatan dengan Sensor Biometrik (Studi Kasus Bandung),Kesehatan,Mengembangkan aplikasi kesehatan untuk penderita hipertensi.,Dr. Sarah Lee,Belum Dikerjakan,2025-06-15
+71,Website E-Commerce Menggunakan Django dan Python (Tahun 2025),Web,Mengembangkan sistem informasi akademik berbasis web untuk pengelolaan data mahasiswa.,Prof. Michael Brown,Tunggu Evaluasi,2025-07-05
+72,Pengelompokan Pelanggan dengan Algoritma DBSCAN (Studi Kasus Bandung),Data Mining,Penerapan algoritma K-Means untuk segmentasi kelompok mahasiswa berdasarkan data demografis.,Dr. Sarah Lee,Belum Dikerjakan,2025-06-30
+73,Kendali Otomatis Lampu Rumah dengan NodeMCU (Studi Kasus Bandung),IoT,Menerapkan teknologi IoT pada pertanian untuk meningkatkan hasil tanaman.,Dr. John Doe,Dalam Proses,2025-07-05
+74,Klasifikasi Teks dengan Support Vector Machine (PT XYZ),Machine Learning,Prediksi cuaca menggunakan model decision tree pada data historis.,Dr. Sarah Lee,Selesai,2025-06-30
+75,Klasifikasi Data Penjualan dengan Algoritma C4.5 (Tahun 2025),Data Mining,Melakukan klasifikasi data penjualan menggunakan algoritma C4.5.,Prof. Michael Brown,Dalam Proses,2025-07-05
+76,Klasifikasi Teks dengan Support Vector Machine (Studi Kasus Bandung),Machine Learning,Menggunakan RNN untuk prediksi harga saham di pasar modal.,Dr. John Doe,Selesai,2025-06-15
+77,Sistem Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus Bandung),IoT,Membangun sistem pemantauan dan pengawasan jarak jauh untuk peternakan dengan IoT.,Prof. Jane Smith,Tunggu Evaluasi,2025-06-30
+78,Smart Farming untuk Tanaman Sayur Menggunakan IoT (Tahun 2025),IoT,Pembangunan sistem monitoring untuk pengendalian suhu dan kelembaban menggunakan sensor IoT.,Dr. Sarah Lee,Tunggu Evaluasi,2025-06-15
+79,Platform Pembelajaran Bahasa Asing di Smartphone (Studi Kasus Bandung),Mobile Apps,Menerapkan aplikasi transportasi berbasis mobile dengan fitur pemesanan.,Dr. John Doe,Tunggu Evaluasi,2025-06-30
+80,Analisis Kinerja Jaringan dengan Wireshark (Studi Kasus Bandung),Jaringan,Menggunakan firewall dan IDS untuk pengamanan jaringan dari ancaman luar.,Prof. Michael Brown,Belum Dikerjakan,2025-06-01
+81,Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps,Menerapkan aplikasi transportasi berbasis mobile dengan fitur pemesanan.,Prof. Jane Smith,Dalam Proses,2025-07-20
+82,Sistem Informasi Manajemen Tugas Berbasis Mobile (PT XYZ),Mobile Apps,Membangun aplikasi pemesanan makanan berbasis Android untuk restoran.,Dr. John Doe,Dalam Proses,2025-07-20
+83,Analisis Sentimen Twitter Menggunakan Naive Bayes (Studi Kasus Bandung),Data Mining,Pengelompokan pelanggan berdasarkan pola pembelian menggunakan DBSCAN.,Prof. Jane Smith,Selesai,2025-06-30
+84,Sistem Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT,Membangun sistem pemantauan dan pengawasan jarak jauh untuk peternakan dengan IoT.,Prof. Michael Brown,Tunggu Evaluasi,2025-07-05
+85,Klasifikasi Citra Menggunakan CNN (Studi Kasus Bandung),Machine Learning,Penerapan CNN untuk klasifikasi citra dalam proyek pengenalan objek.,Dr. Emily Johnson,Selesai,2025-07-20
+86,Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps,Membangun aplikasi pemesanan makanan berbasis Android untuk restoran.,Dr. Sarah Lee,Tunggu Evaluasi,2025-07-05
+87,Aplikasi Pendaftaran Online Menggunakan Laravel (Tahun 2025),Web,Membangun e-commerce berbasis web menggunakan Django dan Python.,Prof. Michael Brown,Selesai,2025-07-05
+88,Klasifikasi Teks dengan Support Vector Machine (PT XYZ),Machine Learning,Klasifikasi teks menggunakan Support Vector Machine (SVM).,Dr. Sarah Lee,Selesai,2025-07-20
+89,Portal Informasi Kampus Berbasis Web dengan React (Studi Kasus Bandung),Web,Mengembangkan sistem informasi akademik berbasis web untuk pengelolaan data mahasiswa.,Dr. John Doe,Selesai,2025-07-20
+90,Pembuatan Aplikasi Kesehatan untuk Penderita Hipertensi (Tahun 2025),Kesehatan,Membangun sistem pemantauan kesehatan menggunakan sensor biometrik.,Prof. Michael Brown,Selesai,2025-06-15
+91,Pengelompokan Pelanggan dengan Algoritma DBSCAN (Tahun 2025),Data Mining,Menggunakan Naive Bayes untuk mengklasifikasikan sentimen data Twitter.,Prof. Michael Brown,Selesai,2025-07-20
+92,Konfigurasi Jaringan di Kampus Menggunakan Mikrotik (Tahun 2025),Jaringan,Konfigurasi jaringan dengan Mikrotik untuk meningkatkan bandwidth di kampus.,Dr. Emily Johnson,Selesai,2025-07-05
+93,Prediksi Peluang Pemasaran Menggunakan Random Forest (Tahun 2025),Data Mining,Menganalisis data keuangan perusahaan menggunakan teknik data mining.,Dr. Sarah Lee,Dalam Proses,2025-07-05
+94,Manajemen Data Siswa Berbasis PHP dan MySQL (Studi Kasus Bandung),Web,Pengembangan portal informasi kampus berbasis web dengan React.,Prof. Michael Brown,Tunggu Evaluasi,2025-06-30
+95,Aplikasi Manajemen Poliklinik untuk Rumah Sakit (Tahun 2025),Kesehatan,Menerapkan manajemen poliklinik berbasis aplikasi mobile.,Dr. Emily Johnson,Dalam Proses,2025-06-01
+96,Pengelompokan Pelanggan dengan Algoritma DBSCAN (PT XYZ),Data Mining,Pengelompokan pelanggan berdasarkan pola pembelian menggunakan DBSCAN.,Dr. Emily Johnson,Selesai,2025-06-15
+97,Pendeteksian Penyakit dengan Machine Learning (Studi Kasus Bandung),Machine Learning,Mendeteksi penyakit menggunakan machine learning pada dataset medis.,Prof. Michael Brown,Dalam Proses,2025-07-05
+98,Aplikasi Manajemen Poliklinik untuk Rumah Sakit (Tahun 2025),Kesehatan,Menerapkan manajemen poliklinik berbasis aplikasi mobile.,Prof. Michael Brown,Selesai,2025-06-30
+99,Platform Pembelajaran Bahasa Asing di Smartphone (PT XYZ),Mobile Apps,Pengembangan platform pembelajaran bahasa asing berbasis aplikasi mobile.,Dr. Sarah Lee,Belum Dikerjakan,2025-07-20
+100,Penerapan K-Means untuk Segmentasi Mahasiswa (Studi Kasus Bandung),Data Mining,Menggunakan Naive Bayes untuk mengklasifikasikan sentimen data Twitter.,Dr. Sarah Lee,Belum Dikerjakan,2025-06-15

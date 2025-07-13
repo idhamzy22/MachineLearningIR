@@ -1,0 +1,1001 @@
+No,Judul Tugas,Topik
+1,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+2,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+3,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+4,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+5,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+6,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+7,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+8,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+9,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+10,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+11,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+12,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+13,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+14,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+15,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+16,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+17,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+18,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+19,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+20,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+21,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+22,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+23,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+24,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+25,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+26,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+27,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+28,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+29,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+30,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+31,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+32,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+33,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+34,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+35,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+36,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+37,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+38,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+39,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+40,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+41,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+42,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+43,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+44,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+45,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+46,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+47,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+48,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+49,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+50,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+51,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+52,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+53,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+54,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+55,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+56,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Studi Kasus di Bandung),Web
+57,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+58,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+59,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+60,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+61,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+62,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+63,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+64,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+65,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+66,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+67,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+68,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+69,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+70,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+71,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+72,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+73,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+74,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+75,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+76,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+77,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+78,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+79,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+80,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+81,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+82,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+83,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+84,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+85,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+86,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+87,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+88,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+89,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+90,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+91,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+92,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+93,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+94,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+95,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+96,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+97,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+98,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+99,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+100,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+101,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+102,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+103,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+104,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+105,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+106,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+107,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+108,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+109,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+110,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+111,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+112,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+113,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+114,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+115,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+116,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+117,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+118,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+119,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+120,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+121,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+122,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+123,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+124,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+125,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+126,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+127,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+128,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+129,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+130,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+131,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+132,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+133,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+134,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+135,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+136,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+137,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+138,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+139,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+140,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+141,Sistem Pakar Diagnosa Penyakit Tanaman (Studi Kasus di Bandung),AI
+142,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+143,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+144,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+145,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+146,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Studi Kasus di Bandung),Web
+147,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+148,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+149,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+150,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+151,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+152,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+153,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+154,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+155,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+156,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+157,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+158,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+159,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+160,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+161,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+162,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+163,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+164,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+165,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+166,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+167,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+168,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+169,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+170,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+171,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+172,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+173,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+174,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+175,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+176,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+177,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+178,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+179,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+180,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+181,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+182,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+183,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+184,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+185,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+186,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+187,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+188,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+189,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+190,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Studi Kasus di Bandung),Web
+191,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+192,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+193,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+194,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+195,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+196,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+197,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+198,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+199,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+200,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+201,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+202,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+203,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+204,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+205,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+206,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+207,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+208,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+209,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+210,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+211,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+212,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+213,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+214,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+215,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Studi Kasus di Bandung),Web
+216,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+217,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+218,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+219,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+220,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+221,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+222,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+223,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+224,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+225,Sistem Pakar Diagnosa Penyakit Tanaman (Studi Kasus di Bandung),AI
+226,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+227,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+228,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+229,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+230,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+231,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+232,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+233,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+234,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+235,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+236,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+237,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+238,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+239,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+240,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+241,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+242,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+243,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+244,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+245,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+246,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+247,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+248,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+249,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+250,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+251,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+252,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+253,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+254,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+255,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+256,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+257,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+258,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+259,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+260,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+261,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+262,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+263,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+264,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+265,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+266,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+267,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+268,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+269,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+270,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+271,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+272,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+273,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+274,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+275,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+276,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+277,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+278,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+279,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+280,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+281,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+282,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+283,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+284,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+285,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+286,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+287,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+288,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+289,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+290,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+291,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+292,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+293,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+294,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+295,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+296,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+297,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+298,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+299,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+300,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+301,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+302,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+303,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+304,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+305,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+306,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+307,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+308,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+309,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+310,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+311,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+312,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+313,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+314,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+315,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+316,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+317,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+318,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Tahun 2025),Machine Learning
+319,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+320,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+321,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+322,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+323,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+324,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+325,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+326,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+327,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+328,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+329,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+330,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+331,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+332,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+333,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+334,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+335,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+336,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+337,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+338,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+339,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+340,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+341,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+342,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+343,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+344,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+345,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+346,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+347,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+348,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+349,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+350,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+351,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+352,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+353,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+354,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+355,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+356,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+357,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+358,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+359,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+360,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+361,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+362,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+363,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+364,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+365,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+366,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+367,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+368,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+369,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+370,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+371,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Studi Kasus di Bandung),Web
+372,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+373,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+374,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+375,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+376,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+377,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+378,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+379,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+380,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+381,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+382,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+383,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+384,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+385,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+386,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+387,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+388,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+389,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+390,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+391,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+392,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+393,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+394,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+395,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+396,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+397,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+398,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Tahun 2025),Machine Learning
+399,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+400,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+401,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+402,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+403,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+404,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+405,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+406,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+407,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+408,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+409,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+410,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+411,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+412,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+413,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+414,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+415,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+416,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+417,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+418,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+419,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+420,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+421,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+422,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+423,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+424,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+425,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+426,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+427,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+428,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+429,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+430,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+431,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+432,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+433,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+434,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+435,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+436,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+437,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+438,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+439,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+440,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+441,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+442,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+443,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+444,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+445,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+446,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+447,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Studi Kasus di Bandung),Web
+448,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+449,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+450,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+451,Sistem Pakar Diagnosa Penyakit Tanaman (Studi Kasus di Bandung),AI
+452,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+453,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+454,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+455,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+456,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+457,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+458,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+459,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+460,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+461,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+462,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+463,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+464,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+465,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+466,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+467,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+468,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+469,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+470,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+471,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+472,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+473,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+474,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+475,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+476,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+477,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+478,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+479,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+480,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+481,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+482,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+483,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+484,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+485,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+486,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+487,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+488,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+489,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+490,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+491,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+492,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+493,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+494,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+495,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+496,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+497,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+498,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+499,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+500,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+501,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+502,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+503,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+504,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+505,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+506,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+507,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+508,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+509,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+510,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+511,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+512,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+513,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+514,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+515,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+516,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+517,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+518,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+519,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+520,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+521,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+522,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+523,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+524,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+525,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+526,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+527,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+528,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+529,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+530,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+531,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+532,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+533,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+534,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+535,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Tahun 2025),Machine Learning
+536,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+537,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+538,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+539,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+540,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+541,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+542,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+543,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+544,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+545,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+546,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+547,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+548,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+549,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+550,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+551,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+552,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+553,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+554,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+555,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+556,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+557,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+558,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+559,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+560,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+561,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+562,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+563,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+564,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+565,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+566,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+567,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+568,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+569,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+570,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+571,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+572,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+573,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+574,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+575,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+576,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+577,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+578,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+579,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+580,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+581,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+582,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+583,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+584,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Tahun 2025),Machine Learning
+585,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+586,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+587,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+588,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+589,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+590,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+591,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+592,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+593,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+594,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+595,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+596,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+597,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+598,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+599,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+600,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+601,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+602,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+603,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+604,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+605,Sistem Pakar Diagnosa Penyakit Tanaman (Studi Kasus di Bandung),AI
+606,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+607,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+608,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+609,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+610,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+611,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+612,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+613,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+614,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+615,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+616,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+617,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+618,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+619,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+620,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+621,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+622,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+623,Sistem Pakar Diagnosa Penyakit Tanaman (Studi Kasus di Bandung),AI
+624,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+625,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+626,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+627,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+628,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+629,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+630,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+631,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+632,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+633,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+634,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+635,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+636,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+637,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+638,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+639,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+640,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+641,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+642,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+643,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+644,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+645,Sistem Pakar Diagnosa Penyakit Tanaman (Studi Kasus di Bandung),AI
+646,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+647,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+648,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+649,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+650,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+651,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+652,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+653,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+654,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+655,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Studi Kasus di Bandung),Web
+656,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+657,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+658,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+659,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+660,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+661,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+662,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+663,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+664,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+665,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+666,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+667,Sistem Pakar Diagnosa Penyakit Tanaman (Studi Kasus di Bandung),AI
+668,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+669,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+670,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+671,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+672,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+673,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+674,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+675,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+676,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+677,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+678,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+679,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+680,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+681,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+682,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+683,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+684,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+685,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+686,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+687,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+688,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+689,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+690,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+691,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+692,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+693,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+694,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+695,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+696,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+697,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+698,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+699,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+700,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+701,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+702,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+703,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+704,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+705,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+706,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+707,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+708,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+709,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+710,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+711,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+712,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+713,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+714,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+715,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+716,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+717,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+718,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+719,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+720,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+721,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+722,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+723,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+724,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+725,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+726,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+727,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+728,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+729,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+730,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+731,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+732,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+733,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+734,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Studi Kasus di Bandung),IoT
+735,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+736,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+737,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+738,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+739,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+740,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+741,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+742,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+743,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+744,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+745,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+746,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+747,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+748,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+749,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+750,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+751,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+752,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+753,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+754,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+755,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+756,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+757,Platform Belajar Bahasa Asing di Smartphone (Studi Kasus di Bandung),Mobile Apps
+758,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+759,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+760,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+761,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+762,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+763,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+764,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+765,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+766,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+767,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+768,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+769,Sistem Monitoring Gizi Anak Balita (Kasus PT XYZ),Kesehatan
+770,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+771,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+772,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+773,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+774,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+775,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+776,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+777,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+778,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+779,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+780,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+781,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+782,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+783,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+784,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+785,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+786,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+787,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+788,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+789,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+790,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+791,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+792,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+793,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+794,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+795,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+796,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+797,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+798,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+799,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+800,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+801,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+802,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+803,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+804,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+805,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+806,Pengembangan Chatbot Menggunakan AI dan NLP (Tahun 2025),AI
+807,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+808,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+809,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Studi Kasus di Bandung),Web
+810,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+811,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+812,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+813,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+814,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+815,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+816,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+817,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+818,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+819,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+820,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+821,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+822,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+823,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+824,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+825,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+826,Pembuatan Aplikasi Reminder Obat untuk Lansia (Studi Kasus di Bandung),Kesehatan
+827,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+828,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+829,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+830,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+831,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Tahun 2025),IoT
+832,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+833,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+834,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+835,Aplikasi Catatan Keuangan Harian Mobile (Kasus PT XYZ),Mobile Apps
+836,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+837,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+838,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+839,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+840,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+841,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+842,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+843,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+844,Analisis Kinerja Jaringan Menggunakan Wireshark (Studi Kasus di Bandung),Jaringan
+845,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+846,Implementasi Keamanan Jaringan dengan VPN (Tahun 2025),Jaringan
+847,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+848,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+849,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+850,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+851,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+852,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+853,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+854,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+855,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+856,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+857,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Tahun 2025),Web
+858,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+859,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+860,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+861,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+862,Sistem Monitoring Gizi Anak Balita (Studi Kasus di Bandung),Kesehatan
+863,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+864,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+865,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+866,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Tahun 2025),Machine Learning
+867,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+868,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+869,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+870,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+871,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+872,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+873,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+874,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+875,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+876,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+877,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+878,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+879,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+880,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+881,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+882,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+883,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+884,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+885,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+886,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Tahun 2025),Kesehatan
+887,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Tahun 2025),Machine Learning
+888,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+889,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+890,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+891,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+892,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+893,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+894,Smart Farming dengan Sensor Kelembaban dan IoT (Kasus PT XYZ),IoT
+895,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+896,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+897,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Kasus PT XYZ),Data Mining
+898,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+899,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+900,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+901,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+902,Aplikasi Catatan Keuangan Harian Mobile (Studi Kasus di Bandung),Mobile Apps
+903,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+904,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+905,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+906,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+907,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+908,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+909,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Studi Kasus di Bandung),AI
+910,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+911,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+912,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Studi Kasus di Bandung),Kesehatan
+913,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+914,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+915,Implementasi Keamanan Jaringan dengan VPN (Kasus PT XYZ),Jaringan
+916,Aplikasi Catatan Keuangan Harian Mobile (Tahun 2025),Mobile Apps
+917,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+918,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+919,Sistem Monitoring Gizi Anak Balita (Tahun 2025),Kesehatan
+920,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+921,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+922,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+923,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+924,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+925,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+926,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+927,Monitoring Suhu dan Kelembaban Berbasis IoT (Tahun 2025),IoT
+928,Analisis Kinerja Jaringan Menggunakan Wireshark (Tahun 2025),Jaringan
+929,Sistem Informasi Akademik Online Berbasis PHP (Tahun 2025),Web
+930,Aplikasi Rekomendasi Film Menggunakan KNN (Kasus PT XYZ),Machine Learning
+931,Aplikasi Rekomendasi Film Menggunakan KNN (Tahun 2025),Machine Learning
+932,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+933,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Tahun 2025),Web
+934,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+935,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+936,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Studi Kasus di Bandung),Data Mining
+937,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+938,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+939,Smart Farming dengan Sensor Kelembaban dan IoT (Tahun 2025),IoT
+940,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+941,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+942,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+943,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+944,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+945,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+946,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+947,Sistem Informasi Akademik Online Berbasis PHP (Kasus PT XYZ),Web
+948,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+949,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+950,Aplikasi Pemesanan Makanan Online Berbasis Android (Tahun 2025),Mobile Apps
+951,Pembuatan Aplikasi Reminder Obat untuk Lansia (Kasus PT XYZ),Kesehatan
+952,Monitoring Suhu dan Kelembaban Berbasis IoT (Kasus PT XYZ),IoT
+953,Segmentasi Pelanggan Menggunakan K-Means (Studi Kasus di Bandung),Data Mining
+954,Perancangan Topologi Jaringan untuk Kantor Cabang (Studi Kasus di Bandung),Jaringan
+955,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Kasus PT XYZ),AI
+956,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+957,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+958,Aplikasi Pemesanan Makanan Online Berbasis Android (Kasus PT XYZ),Mobile Apps
+959,Platform Belajar Bahasa Asing di Smartphone (Tahun 2025),Mobile Apps
+960,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+961,Aplikasi Rekomendasi Film Menggunakan KNN (Studi Kasus di Bandung),Machine Learning
+962,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+963,Perancangan Topologi Jaringan untuk Kantor Cabang (Kasus PT XYZ),Jaringan
+964,Aplikasi Inventaris Barang Berbasis Web dengan Laravel (Kasus PT XYZ),Web
+965,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Kasus PT XYZ),Web
+966,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Kasus PT XYZ),Machine Learning
+967,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
+968,Pendeteksi Emosi dalam Teks dengan Kecerdasan Buatan (Tahun 2025),AI
+969,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+970,Analisis Kinerja Jaringan Menggunakan Wireshark (Kasus PT XYZ),Jaringan
+971,Klasifikasi Gambar Menggunakan CNN (Studi Kasus di Bandung),Machine Learning
+972,Monitoring Suhu dan Kelembaban Berbasis IoT (Studi Kasus di Bandung),IoT
+973,Perancangan Topologi Jaringan untuk Kantor Cabang (Tahun 2025),Jaringan
+974,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+975,Platform Belajar Bahasa Asing di Smartphone (Kasus PT XYZ),Mobile Apps
+976,Analisis Sentimen Komentar Netizen Menggunakan Naive Bayes (Tahun 2025),Data Mining
+977,Pengembangan Chatbot Menggunakan AI dan NLP (Kasus PT XYZ),AI
+978,Prediksi Harga Saham Menggunakan Recurrent Neural Network (Studi Kasus di Bandung),Machine Learning
+979,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Studi Kasus di Bandung),Data Mining
+980,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+981,Sistem Kendali Lampu Otomatis Berbasis NodeMCU (Kasus PT XYZ),IoT
+982,Pembuatan Aplikasi Reminder Obat untuk Lansia (Tahun 2025),Kesehatan
+983,Sistem Informasi Akademik Online Berbasis PHP (Studi Kasus di Bandung),Web
+984,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Tahun 2025),Data Mining
+985,Klasifikasi Gambar Menggunakan CNN (Kasus PT XYZ),Machine Learning
+986,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+987,Prediksi Risiko Diabetes Berdasarkan Riwayat Medis (Kasus PT XYZ),Kesehatan
+988,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+989,Sistem Pakar Diagnosa Penyakit Tanaman (Kasus PT XYZ),AI
+990,Portal Pendaftaran Mahasiswa Baru dengan CodeIgniter (Studi Kasus di Bandung),Web
+991,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+992,Klasifikasi Gambar Menggunakan CNN (Tahun 2025),Machine Learning
+993,Aplikasi Pemesanan Makanan Online Berbasis Android (Studi Kasus di Bandung),Mobile Apps
+994,Pengembangan Chatbot Menggunakan AI dan NLP (Studi Kasus di Bandung),AI
+995,Segmentasi Pelanggan Menggunakan K-Means (Kasus PT XYZ),Data Mining
+996,Klasifikasi Data Penjualan Menggunakan Algoritma C4.5 (Kasus PT XYZ),Data Mining
+997,Segmentasi Pelanggan Menggunakan K-Means (Tahun 2025),Data Mining
+998,Sistem Pakar Diagnosa Penyakit Tanaman (Tahun 2025),AI
+999,Implementasi Keamanan Jaringan dengan VPN (Studi Kasus di Bandung),Jaringan
+1000,Smart Farming dengan Sensor Kelembaban dan IoT (Studi Kasus di Bandung),IoT
